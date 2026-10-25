@@ -59,6 +59,3 @@ open http://localhost:8000
 
 MIT
 
-## 👨‍💻 Автор
-
-Создано с помощью Mira AI
